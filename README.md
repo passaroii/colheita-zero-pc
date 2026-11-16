@@ -7,7 +7,7 @@ Um vírus destruiu as colheitas; atravesse Belém e chegue à Ilha do Mosqueiro 
 
 ## Jogar no navegador (WebMSX)
 
-**[Clique aqui para jogar](https://webmsx.org/?MACHINE=MSX2E&ROM=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/COLHEITA_ZERO_PC.rom&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/CZ_SAVE.DSK)**
+**[Clique aqui para jogar](https://webmsx.org/?MACHINE=MSX2E&MOUSE_MODE=1&ROM=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/COLHEITA_ZERO_PC.rom&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/CZ_SAVE.DSK)**
 
 Na abertura, tecla **1** = Sobrevivência (com fome e pontos) ou **2** = Exploração.
 
