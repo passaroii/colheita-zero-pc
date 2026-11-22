@@ -22,11 +22,25 @@ Na abertura, tecla **1** = Sobrevivência (com fome e pontos) ou **2** = Explora
 - Atalhos: **I O P U D L A F S** = Ir, Olhar, Pegar, Usar, Dar, Ler, Abrir, Falar, Sistema; **1 a 8** = itens.
 - **SISTEMA:** salvar (no disquete do link e por senha), carregar, senha, ajuda, sair.
 
+## Edição MSX2+ (novidade)
+
+**[Clique aqui para jogar a edição MSX2+](https://webmsx.org/?MACHINE=MSX2PE&MOUSE_MODE=1&ROM=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/COLHEITA_ZERO_PC_2MAIS.rom&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/CZ_SAVE.DSK)**
+
+O mesmo jogo, com o que o MSX2+ tem a mais:
+
+- **Cenas com milhares de cores** (modo YJK do V9958): degradês no céu, no fogo e nas paredes, sem pontilhado.
+- **Letra própria e estreita**, com todos os acentos dentro do cartucho (a maioria dos MSX2+ é japonesa e não tem á, ç, ã).
+  Cabem 42 letras por linha.
+
+Precisa de um MSX2+. Num MSX2 o cartucho avisa e para: lá, use `COLHEITA_ZERO_PC.rom`.
+
 ## Arquivos
 
 - `COLHEITA_ZERO_PC.rom` — cartucho MegaROM ASCII8 de 384 KB para MSX2.
-- `CZ_SAVE.DSK` — disquete vazio para salvar a partida.
+- `COLHEITA_ZERO_PC_2MAIS.rom` — edição MSX2+, MegaROM ASCII8 de 384 KB.
+- `CZ_SAVE.DSK` — disquete vazio para salvar a partida (serve para as duas edições).
 
 ![Beco da Cidade Velha](2_beco_saqueador.png)
 ![Conversa](3_conversa.png)
 ![Vitória](4_vitoria.png)
+![Edição MSX2+](5_msx2mais.png)
