@@ -31,13 +31,15 @@ O mesmo jogo, com o que o MSX2+ tem a mais:
 - **Cenas com milhares de cores** (modo YJK do V9958): degradês no céu, no fogo e nas paredes, sem pontilhado.
 - **Letra própria e estreita**, com todos os acentos dentro do cartucho (a maioria dos MSX2+ é japonesa e não tem á, ç, ã).
   Cabem 42 letras por linha.
+- **Personagem desenhado como imagem** (novo): no estilo das cenas, de perfil, de frente e de costas, andando
+  com 8 quadros. O tamanho segue a perspectiva de cada sala: ele diminui quando vai para o fundo.
 
 Precisa de um MSX2+. Num MSX2 o cartucho avisa e para: lá, use `COLHEITA_ZERO_PC.rom`.
 
 ## Arquivos
 
 - `COLHEITA_ZERO_PC.rom` — cartucho MegaROM ASCII8 de 384 KB para MSX2.
-- `COLHEITA_ZERO_PC_2MAIS.rom` — edição MSX2+, MegaROM ASCII8 de 384 KB.
+- `COLHEITA_ZERO_PC_2MAIS.rom` — edição MSX2+, MegaROM ASCII8 de 512 KB.
 - `CZ_SAVE.DSK` — disquete vazio para salvar a partida (serve para as duas edições).
 
 ![Beco da Cidade Velha](2_beco_saqueador.png)
