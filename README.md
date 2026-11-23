@@ -11,7 +11,8 @@ Um vírus destruiu as colheitas; atravesse Belém e chegue à Ilha do Mosqueiro 
 
 Na abertura, tecla **1** = Sobrevivência (com fome e pontos) ou **2** = Exploração.
 Enquanto você escolhe, toca o tema da abertura, um lundu original: com o chip FM (MSX-MUSIC ou FM-PAC, que o
-WebMSX já liga sozinho) ou, sem ele, no som padrão do MSX.
+WebMSX já liga sozinho) ou, sem ele, no som padrão do MSX. O mesmo lundu volta, em tom maior, na chegada à
+Ilha do Mosqueiro, e lento e dramático se a fome vencer.
 
 | Controle | Mover o cursor | Clicar | Cancelar |
 |---|---|---|---|
