@@ -10,6 +10,8 @@ Um vírus destruiu as colheitas; atravesse Belém e chegue à Ilha do Mosqueiro 
 **[Clique aqui para jogar](https://webmsx.org/?MACHINE=MSX2E&MOUSE_MODE=1&ROM=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/COLHEITA_ZERO_PC.rom&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero-pc/main/CZ_SAVE.DSK)**
 
 Na abertura, tecla **1** = Sobrevivência (com fome e pontos) ou **2** = Exploração.
+Enquanto você escolhe, toca o tema da abertura, um lundu original: com o chip FM (MSX-MUSIC ou FM-PAC, que o
+WebMSX já liga sozinho) ou, sem ele, no som padrão do MSX.
 
 | Controle | Mover o cursor | Clicar | Cancelar |
 |---|---|---|---|
